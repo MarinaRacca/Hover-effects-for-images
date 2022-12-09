@@ -2,10 +2,6 @@ h1{
     width: 100%;
     font-size:xx-large;
 }
-.grid-pets-item {
-    width: fit-content;
-    height: 1500px;
-}
 .grid-container {
     text-align: center;
     padding: 42px;
